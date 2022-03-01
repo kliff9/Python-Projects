@@ -1,3 +1,3 @@
 # Python-Projects
 
-Python Projects using the Fundamentals 
+Other Python Projects
